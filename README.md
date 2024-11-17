@@ -1,13 +1,14 @@
 # AutoSpareTracker
-An Efficient Solution for Supply Chain in the Automobile Industry
-Pre-requisites
-Python 3.7 or above
-Flask
-SQLite
+An Efficient Solution for Supply Chain in the Automobile Industry.
+Pre-requisites-
+Python 3.7 or above,
+Flask,
+SQLite,
 Machine Learning libraries:
-scikit-learn
-pandas
-numpy
+scikit-learn,
+pandas,
+numpy.
+
 AutoSpareTracker is a warehouse inventory management system that integrates machine learning (ML) and AI-driven features. This system helps companies efficiently manage their inventory of spare parts, locate items quickly, predict product demand, and interact with a chatbot for additional support.
 Maintain all files according this structure
 
