@@ -12,6 +12,7 @@ AutoSpareTracker is a warehouse inventory management system that integrates mach
 Maintain all files according this structure
 
 AutoSpareTracker/
+
 ├── app.py                       
 ├── ai_models/                  
 │   ├── demand_predictor.pkl     
